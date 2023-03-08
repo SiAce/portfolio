@@ -6,9 +6,10 @@ Here are a list of projects that I've done in the past.
 
 # Websites
 
-## YelpCamp
+### YelpCamp
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/YelpCamp)
+
 A full-stack website at Heroku using Express.js (Node.js) that can let users register, log
 in, log out. Users can also view, add, edit, delete campsites, and reviews for campsites.
 
@@ -16,7 +17,7 @@ in, log out. Users can also view, add, edit, delete campsites, and reviews for c
 
 ![YelpCamp](assets/img/yelpcamp.png)
 
-## Store Management System
+### Store Management System
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/flask-rest)
 
@@ -28,7 +29,7 @@ Stored the stores, items and users data in the SQLite database, and used Flask-S
 
 # Games
 
-## Tanks
+### Tanks
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/Tanks) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/Tanks/releases)
 
 This is 2 player 1 keyboard (local-multiplayer) couch warfest game.
@@ -36,7 +37,7 @@ You can drive a tank to shoot the other player.
 
 ![Tanks](assets/img/tanks.jpg)
 
-## Scavenger
+### Scavenger
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/Scavenger) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/Scavenger/releases)
 
@@ -46,7 +47,7 @@ A 2D Roguelike game with this project with procedural tile-based levels, turn-ba
 
 # Applications
 
-## Computer Vision Application
+### Computer Vision Application
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/Computer-Vision) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/Computer-Vision/releases)
 
