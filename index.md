@@ -7,7 +7,7 @@ Here are a list of projects that I've done in the past.
 # Games
 
 ## Tanks
-[<img src="/assets/img/github-mark.svg" width="32">](https://github.com/SiAce/Tanks)[<img src="/assets/img/download.png" width="32">](https://github.com/SiAce/Tanks/releases)
+[<img src="assets/img/github-mark.svg" width="32">](https://github.com/SiAce/Tanks)[<img src="assets/img/download.png" width="32">](https://github.com/SiAce/Tanks/releases)
 
 This is 2 player 1 keyboard (local-multiplayer) couch warfest game.
 You can drive a tank to shoot the other player.
