@@ -6,18 +6,28 @@ Here is a list of projects that I've done in the past.
 
 # Websites
 
-### YelpCamp
+## [Pokemon Explorer](https://pokemon-explorer-eosin.vercel.app/)
+(Typescript, React, Next.js)
+
+[<img src="assets/img/vercel-icon-dark.svg" width="32" style="margin: 0 5px">](https://pokemon-explorer-eosin.vercel.app/)
+[<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/pokemon-explorer)
+
+Pokemon Explorer is an app designed for Pokemon enthusiasts to discover and explore various aspects of the Pokemon universe. The app provides a comprehensive database of all Pokemon species, including their name, type, and moves.
+
+![Pokemon Explorer](assets/img/pokemon-explorer.png)
+
+## YelpCamp
+(JavaScript, Node.js, Express.js, MongoDB, Mongoose, Bootstrap)
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/YelpCamp)
 
 A full-stack website at Heroku using Express.js (Node.js) that can let users register, log
 in, and log out. Users can also view, add, edit, and delete campsites, and reviews for campsites.
 
-(Unfortunately, my Heroku account was deleted due to inactivity)
-
 ![YelpCamp](assets/img/yelpcamp.png)
 
-### Store Management System
+## Store Management System
+(Python, Flask, Flask-RESTful, Flask-SQLAlchemy, SQLite)
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/flask-rest)
 
@@ -28,8 +38,9 @@ Stored the stores, items, and users data in the SQLite database, and used Flask-
 ![Store Management System](assets/img/store-management.png)
 
 # Games
+(Unity, C#)
 
-### Tanks
+## Tanks
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/Tanks) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/Tanks/releases)
 
 This is 2 player 1 keyboard (local-multiplayer) couch warfest game.
@@ -37,7 +48,8 @@ You can drive a tank to shoot the other player.
 
 ![Tanks](assets/img/tanks.jpg)
 
-### Scavenger
+## Scavenger
+(Unity, C#)
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/Scavenger) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/Scavenger/releases)
 
@@ -45,7 +57,8 @@ A 2D Roguelike game with this project with procedural tile-based levels, turn-ba
 
 ![Scavenger](assets/img/scavenger.png)
 
-### Ellen's Adventure
+## Ellen's Adventure
+(Unity, C#)
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/EllenAdventure) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/EllenAdventure/releases)
 
@@ -55,7 +68,8 @@ Explore the ancient and mysterious alien planet where our Principal Engineer, El
 
 ![Ellen's Adventure](assets/img/ellen-adventure.jpeg)
 
-### Space Shooter
+## Space Shooter
+(Unity, C#)
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/SpaceShooter) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/SpaceShooter/releases)
 
@@ -63,7 +77,8 @@ A simple top-down arcade-style shooter using basic assets provided by Unity Tech
 
 ![Space Shooter](assets/img/space-shooter.png)
 
-### Procedural Cave Generation
+## Procedural Cave Generation
+(Unity, C#)
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/ProceduralCaveGeneration) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/ProceduralCaveGeneration/releases)
 
@@ -73,7 +88,8 @@ A game used to create procedurally generated caverns/dungeons using cellular aut
 
 # Applications
 
-### Computer Vision Application
+## Computer Vision Application
+(C++, Qt)
 
 [<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/Computer-Vision) [<img src="assets/img/download.png" width="32" style="margin: 0 5px">](https://github.com/SiAce/Computer-Vision/releases)
 
