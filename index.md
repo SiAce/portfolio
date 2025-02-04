@@ -6,6 +6,19 @@ Here is a list of projects that I've done in the past.
 
 # Websites
 
+## [Pokemon Database](https://pokemon-siace.netlify.app/)
+(Astro, Starlight, Typescript)
+
+[<img src="assets/img/netlify-icon.svg" width="32" style="margin: 0 5px">](https://pokemon-siace.netlify.app/)
+[<img src="assets/img/github-mark.svg" width="32" style="margin: 0 5px">](https://github.com/SiAce/pokemon-database)
+
+**Pokémon Database** is a clean, engaging online repository for Pokémon enthusiasts featuring a welcoming interface, prominent "Explore Pokémons" call-to-action, and modern design options like Dark, Light, and Auto themes that enhance usability on any device. The site offers visually appealing elements, including a dynamic Pokémon color spectrum, which invites users to easily navigate and discover detailed Pokémon information.
+
+Notably, this website has been collected in the [Astro Starlight Site Showcase](https://starlight.astro.build/resources/showcase/#sites), underlining its innovative design and user-friendly experience.
+
+
+![Pokemon Explorer](assets/img/pokemon-database.png)
+
 ## [Pokemon Explorer](https://pokemon-explorer-eosin.vercel.app/)
 (Typescript, React, Next.js)
 
